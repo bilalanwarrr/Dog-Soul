@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94256820144",
+    "firebase_url": "https://amourbeauty-default-rtdb.firebaseio.com",
+    "project_id": "amourbeauty",
+    "storage_bucket": "amourbeauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94256820144:android:7161dc22a126203e247075",
+        "android_client_info": {
+          "package_name": "com.hunter.code.hunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94256820144-um40001h0qm943q9hb2984k51d8hh8a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAecSOORBfUXiYwSke3A9_HHtB4e8ZL4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94256820144-um40001h0qm943q9hb2984k51d8hh8a7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94256820144-qo0hoe9tc25coe5om1kp4b853s0ojpad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.empire.code"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
